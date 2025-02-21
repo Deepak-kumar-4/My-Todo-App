@@ -1,0 +1,9 @@
+[
+  { "id": 1, "text": "Read a book" },
+  { "id": 2, "text": "Write a blog post" },
+  { "id": 3, "text": "Go for a walk" },
+  { "id": 4, "text": "Learn Next.js" },
+  { "id": 5, "text": "Exercise for 30 minutes" },
+  { "id": 6, "text": "Complete the test project" },
+  { "id": 7, "text": "Deploy it in the Vercel" }
+]
